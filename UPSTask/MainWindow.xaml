@@ -26,17 +26,17 @@
             Margin="0 10 0 0">
             <Label x:Name="LabelPage"        
                Content="Page:"    
-               Margin="0 10 0 0" Height="26" RenderTransformOrigin="0.543,0.053"/>
+               Margin="0 10 0 0" Height="40" RenderTransformOrigin="0.543,0.053"/>
             <TextBox x:Name="TextPage" Text="{Binding PageNumber}" TextWrapping="Wrap" Height="20"
                 Width="120"/>
             <Label x:Name="LabelId"        
                Content="Id:"    
-               Margin="0 10 0 0" Height="26" RenderTransformOrigin="0.543,0.053"/>
+               Margin="0 10 0 0" Height="40" RenderTransformOrigin="0.543,0.053"/>
             <TextBox x:Name="TextID" Text="{Binding Id}" TextWrapping="Wrap" Height="20"
                 Width="120"/>
             <Label x:Name="LabelName"        
                Content="Name:"    
-               Margin="0 10 0 0" Height="26" RenderTransformOrigin="0.543,0.053"/>
+               Margin="0 10 0 0" Height="40" RenderTransformOrigin="0.543,0.053"/>
             <TextBox x:Name="TextName" Text="{Binding Name}" TextWrapping="Wrap" Height="20"
                 Width="120"/>
             <Button x:Name="ButtonGet"

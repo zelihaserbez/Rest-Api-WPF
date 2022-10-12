@@ -69,7 +69,6 @@ C:\Users\zeliha.serbez\source\repos\UPSTask\UPSTask\obj\Debug\netcoreapp3.1\Gene
 C:\Users\zeliha.serbez\source\repos\UPSTask\UPSTask\obj\Debug\netcoreapp3.1\UPSTask_MarkupCompile.cache
 C:\Users\zeliha.serbez\source\repos\UPSTask\UPSTask\obj\Debug\netcoreapp3.1\UPSTask_MarkupCompile.lref
 C:\Users\zeliha.serbez\source\repos\UPSTask\UPSTask\obj\Debug\netcoreapp3.1\MainWindow.baml
-C:\Users\zeliha.serbez\source\repos\UPSTask\UPSTask\obj\Debug\netcoreapp3.1\Res Dictionaries\ResourceDictionaryTemplate.baml
 C:\Users\zeliha.serbez\source\repos\UPSTask\UPSTask\obj\Debug\netcoreapp3.1\UPSTask.g.resources
 C:\Users\zeliha.serbez\source\repos\UPSTask\UPSTask\obj\Debug\netcoreapp3.1\UPSTask.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\zeliha.serbez\source\repos\UPSTask\UPSTask\obj\Debug\netcoreapp3.1\UPSTask.AssemblyInfoInputs.cache
